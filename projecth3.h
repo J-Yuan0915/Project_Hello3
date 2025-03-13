@@ -15,6 +15,9 @@ public:
     explicit ProjectH3(QWidget *parent = 0);
     ~ProjectH3();
 
+private slots:
+    void on_pushButton_clicked();
+
 private:
     Ui::ProjectH3 *ui;
 };
