@@ -16,5 +16,5 @@ ProjectH3::~ProjectH3()
 
 void ProjectH3::on_pushButton_clicked()
 {
-    qDebug() << "Hello World!Hey Mr.Handsome";
+    qDebug() << "Hello World!Hey Mr.Handsome/Gentleman";
 }
